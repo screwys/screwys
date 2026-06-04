@@ -12,7 +12,7 @@
   <b>Welcome to my profile!</b>
 </p>
 <p align="center">
-I like self-hosting and privsec stuff. I'm especially interested in sandboxing technologies and secure computation. 
+I like FLOSS, self-hosting and privsec stuff. I'm especially interested in sandboxes and secure computation. 
 </p>
 
 ## Projects
