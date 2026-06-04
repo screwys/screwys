@@ -1,3 +1,13 @@
+
+<p align="center">
+  <b>Welcome to my profile!</b>
+</p>
+<p align="center">
+I am interested in FLOSS, self-hosting and privsec stuff, especially sandboxes and secure computation. 
+</p>
+<p align="center">
+Software I like to use:
+</p>
 <p align="center">
   <a href="https://github.com/niri-wm/niri"><img src="./assets/badges/niri.svg" height="20" alt="niri" /></a>
   <a href="https://github.com/noctalia-dev/noctalia-shell"><img src="./assets/badges/noctalia.svg" height="20" alt="Noctalia" /></a>
@@ -7,12 +17,6 @@
   <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
   <img src="https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
-</p>
-<p align="center">
-  <b>Welcome to my profile!</b>
-</p>
-<p align="center">
-I like FLOSS, self-hosting and privsec stuff. I'm especially interested in sandboxes and secure computation. 
 </p>
 
 ## Projects
