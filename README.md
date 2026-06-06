@@ -6,7 +6,7 @@
 I am interested in FLOSS, self-hosting and privsec stuff, especially sandboxes and secure computation. 
 </p>
 <p align="center">
-Software I like to use:
+What I like to use:
 </p>
 <p align="center">
   <a href="https://github.com/niri-wm/niri"><img src="./assets/badges/niri.svg" height="20" alt="niri" /></a>
