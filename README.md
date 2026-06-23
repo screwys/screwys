@@ -9,14 +9,16 @@ I am interested in FLOSS, self-hosting and privsec stuff, especially sandboxes a
 What I like to use:
 </p>
 <p align="center">
-  <a href="https://github.com/niri-wm/niri"><img src="./assets/badges/niri.svg" height="20" alt="niri" /></a>
-  <a href="https://github.com/noctalia-dev/noctalia-shell"><img src="./assets/badges/noctalia.svg" height="20" alt="Noctalia" /></a>
-  <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK" />
+  <a href="https://github.com/niri-wm/niri"><img src="./assets/badges/niri.svg" height="22" alt="niri" /></a>
+  <a href="https://github.com/noctalia-dev/noctalia-shell"><img src="./assets/badges/noctalia.svg" height="22" alt="Noctalia" /></a>
   <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
   <img src="https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" />
+  <img src="https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" height="20" alt="Nix" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
+  
 </p>
 
 ## Projects
@@ -48,10 +50,11 @@ What I like to use:
     <td>
       <a href="https://github.com/screwys/nocblue">nocblue</a>
       <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
+      <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" height="20" alt="Nix" />
       <img src="./assets/badges/niri.svg" height="20" alt="niri" />
       <img src="./assets/badges/noctalia.svg" height="20" alt="Noctalia" />
     </td>
-    <td>Custom Fedora Silverblue image I'm daily-driving, based on <a href="https://github.com/secureblue/secureblue">secureblue</a> with packages I want on top</td>
+    <td>Custom Fedora Silverblue image I'm daily-driving, based on <a href="https://github.com/secureblue/secureblue">secureblue</a> with a very broad list of customizations, patches, custom SElinux policies, and a nix wrapper</td>
   </tr>
 </table>
 
@@ -64,17 +67,17 @@ What I like to use:
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/screwys/rescue">rescue</a>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    </td>
+    <td>Cross-platform LAN server to drop text/scripts/files between devices</td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/screwys/agent-sandbox">agent-sandbox</a>
       <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
     </td>
     <td>Sandbox tool for CLI agents and Codex Desktop</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/screwys/rescue">rescue</a>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    </td>
-    <td>Cross-platform LAN server to drop text/scripts between devices</td>
   </tr>
   <tr>
     <td>
