@@ -51,8 +51,8 @@ What I like to use:
       <a href="https://github.com/screwys/nocblue">nocblue</a>
       <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
       <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" height="20" alt="Nix" />
-      <img src="./assets/badges/niri.svg" height="20" alt="niri" />
-      <img src="./assets/badges/noctalia.svg" height="20" alt="Noctalia" />
+      <img src="./assets/badges/niri.svg" height="22" alt="niri" />
+      <img src="./assets/badges/noctalia.svg" height="22" alt="Noctalia" />
     </td>
     <td>Custom Fedora Silverblue image I'm daily-driving, based on <a href="https://github.com/secureblue/secureblue">secureblue</a> with a very broad list of customizations, patches, custom SElinux policies, and a nix wrapper</td>
   </tr>
@@ -83,8 +83,8 @@ What I like to use:
     <td>
       <a href="https://github.com/screwys/freebsd-scripts">freebsd-scripts</a>
       <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white" alt="FreeBSD" />
-      <img src="./assets/badges/niri.svg" height="20" alt="niri" />
-      <img src="./assets/badges/noctalia.svg" height="20" alt="Noctalia" />
+      <img src="./assets/badges/niri.svg" height="22" alt="niri" />
+      <img src="./assets/badges/noctalia.svg" height="22" alt="Noctalia" />
     </td>
     <td>Installation script for FreeBSD</td>
   </tr>
