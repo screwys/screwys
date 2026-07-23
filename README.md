@@ -25,11 +25,11 @@ What I like to use:
 
 <table>
   <tr>
-    <th width="55%">Project</th>
-    <th>Notes</th>
+    <td width="1%" nowrap="nowrap"><b>Name</b></td>
+    <td><b>Notes</b></td>
   </tr>
   <tr>
-    <td>
+    <td width="1%" nowrap="nowrap">
       <a href="https://github.com/screwys/Rufin">Rufin</a>
       <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
@@ -38,7 +38,7 @@ What I like to use:
     <td>Native GTK4 music client for Jellyfin, Subsonic, Navidrome and local libraries</td>
   </tr>
   <tr>
-    <td>
+    <td width="1%" nowrap="nowrap">
       <a href="https://github.com/screwys/Igloo">Igloo</a>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="htmx" />
@@ -47,14 +47,14 @@ What I like to use:
     <td>Self-hosted social inbox for YouTube, X, Instagram and TikTok</td>
   </tr>
   <tr>
-    <td>
+    <td width="1%" nowrap="nowrap">
       <a href="https://github.com/screwys/nocblue">nocblue</a>
       <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
       <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" height="20" alt="Nix" />
       <img src="./assets/badges/niri.svg" height="22" alt="niri" />
       <img src="./assets/badges/noctalia.svg" height="22" alt="Noctalia" />
     </td>
-    <td>Custom Fedora Silverblue image I'm daily-driving, based on <a href="https://github.com/secureblue/secureblue">secureblue</a> with a very broad list of customizations, patches, custom SElinux policies, and a nix wrapper</td>
+    <td>Custom Fedora Silverblue image I'm daily-driving, based on <a href="https://github.com/secureblue/secureblue">secureblue</a> with a very broad list of customizations, patches, custom SELinux policies, and a Nix wrapper</td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@ What I like to use:
 
 <table>
   <tr>
-    <th width="55%">Tool</th>
-    <th>Notes</th>
+    <td width="55%"><b>Name</b></td>
+    <td><b>Notes</b></td>
   </tr>
   <tr>
     <td>
@@ -71,6 +71,20 @@ What I like to use:
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
     </td>
     <td>Cross-platform LAN server to drop text/scripts/files between devices</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/screwys/pdrive-sync-rs">pdrive-sync-rs</a>
+      <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    </td>
+    <td>Simple Proton Drive wrapper for synchronization</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/screwys/discord-message-delete">discord-message-delete</a>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    </td>
+    <td>Discord bot to auto-delete messages based on regex</td>
   </tr>
   <tr>
     <td>
