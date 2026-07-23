@@ -23,13 +23,15 @@ What I like to use:
 
 ## Projects
 
+## Projects
+
 <table>
   <tr>
-    <td width="1%" nowrap="nowrap"><b>Name</b></td>
+    <td width="55%"><b>Name</b></td>
     <td><b>Notes</b></td>
   </tr>
   <tr>
-    <td width="1%" nowrap="nowrap">
+    <td>
       <a href="https://github.com/screwys/Rufin">Rufin</a>
       <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
@@ -38,7 +40,7 @@ What I like to use:
     <td>Native GTK4 music client for Jellyfin, Subsonic, Navidrome and local libraries</td>
   </tr>
   <tr>
-    <td width="1%" nowrap="nowrap">
+    <td>
       <a href="https://github.com/screwys/Igloo">Igloo</a>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="htmx" />
@@ -47,7 +49,7 @@ What I like to use:
     <td>Self-hosted social inbox for YouTube, X, Instagram and TikTok</td>
   </tr>
   <tr>
-    <td width="1%" nowrap="nowrap">
+    <td>
       <a href="https://github.com/screwys/nocblue">nocblue</a>
       <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
       <img src="https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff" height="20" alt="Nix" />
@@ -103,3 +105,4 @@ What I like to use:
     <td>Installation script for FreeBSD</td>
   </tr>
 </table>
+
