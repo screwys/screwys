@@ -90,13 +90,6 @@ What I like to use:
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/screwys/agent-sandbox">agent-sandbox</a>
-      <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-    </td>
-    <td>Sandbox tool for CLI agents and Codex Desktop</td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/screwys/freebsd-scripts">freebsd-scripts</a>
       <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white" alt="FreeBSD" />
       <img src="./assets/badges/niri.svg" height="22" alt="niri" />
