@@ -3,14 +3,12 @@
   <b>Welcome to my profile!</b>
 </p>
 <p align="center">
-I am interested in FLOSS, self-hosting and privsec stuff, especially sandboxes and secure computation. 
+I am interested in FLOSS, self-hosting and privsec stuff. These days I'm mostly working on Rufin, while still pushing updates to my other projects as well. I'm also trying to get in to the Fediverse! 
 </p>
 <p align="center">
 What I like to use:
 </p>
 <p align="center">
-  <a href="https://github.com/niri-wm/niri"><img src="./assets/badges/niri.svg" height="22" alt="niri" /></a>
-  <a href="https://github.com/noctalia-dev/noctalia-shell"><img src="./assets/badges/noctalia.svg" height="22" alt="Noctalia" /></a>
   <img src="./assets/badges/silverblue.svg" height="20" alt="Silverblue" />
   <img src="https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" />
   <img src="https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK" />
