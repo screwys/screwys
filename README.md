@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Last.fm Now Playing](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=Mevoser&theme=catppuccin)
+![Libre.fm Now Playing](https://listenbrainz-widget.netlify.app/.netlify/functions/image?provider=listenbrainz&user=screwy&theme=catppuccin)
 
 </div>
 
