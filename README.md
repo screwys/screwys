@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://listenbrainz.org/user/YOUR_USERNAME/">
+  <a href="https://listenbrainz.org/user/screwy/">
     <img
       src="https://lastfm-github-profile.vercel.app/api?user=screwy&amp;source=listenbrainz&amp;mode=history&amp;limit=5&amp;theme=compact"
       alt="ListenBrainz listening history"
