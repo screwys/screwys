@@ -2,6 +2,16 @@
 <p align="center">
   <b>Welcome to my profile!</b>
 </p>
+
+<p align="center">
+  <a href="https://listenbrainz.org/user/YOUR_USERNAME/">
+    <img
+      src="https://lastfm-github-profile.vercel.app/api?user=screwy&amp;source=listenbrainz&amp;mode=history&amp;limit=5&amp;theme=compact"
+      alt="ListenBrainz listening history"
+    />
+  </a>
+</p>
+
 <p align="center">
 I am interested in FLOSS, self-hosting and privsec stuff. These days I'm mostly working on Rufin, while still pushing updates to my other projects as well. I'm also trying to get in to the Fediverse! 
 </p>
