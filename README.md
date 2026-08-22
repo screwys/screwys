@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-I am interested in FLOSS, self-hosting and privsec stuff. These days I'm mostly working on Rufin, while still pushing updates to my other projects as well. I'm also trying to get in to the Fediverse! 
+I am interested in FLOSS, self-hosting and privsec stuff. These days I'm mostly working on Rufin, while still pushing updates to my other projects as well. 
 </p>
 <p align="center">
 What I like to use:
@@ -28,8 +28,6 @@ What I like to use:
   <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
   
 </p>
-
-## Projects
 
 ## Projects
 
