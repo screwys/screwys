@@ -41,7 +41,7 @@ What I like to use:
       <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
       <img src="https://img.shields.io/badge/libadwaita-3584E4?style=flat-square&logo=gnome&logoColor=white" alt="libadwaita" />
     </td>
-    <td>Native GTK4 music client for Jellyfin, Subsonic, Navidrome and local libraries</td>
+    <td>Cross-platform native music player for self-hosted music servers and local/remote libraries</td>
   </tr>
   <tr>
     <td>
