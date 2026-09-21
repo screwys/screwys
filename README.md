@@ -38,8 +38,8 @@ What I like to use:
     <td>
       <a href="https://github.com/screwys/Rufin">Rufin</a>
       <img src="https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/GStreamer-3584E4?style=flat-square&logo=gstreamer&logoColor=white"/>
       <img src="https://img.shields.io/badge/GTK4-4A86CF?style=flat-square&logo=gtk&logoColor=white" alt="GTK4" />
-      <img src="https://img.shields.io/badge/libadwaita-3584E4?style=flat-square&logo=gnome&logoColor=white" alt="libadwaita" />
     </td>
     <td>Cross-platform native music player for self-hosted music servers and local/remote libraries</td>
   </tr>
